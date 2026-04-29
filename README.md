@@ -15,5 +15,5 @@ This tool depends on Unity Robotics URDF Importer if your scene contains URDF ro
 
 ## Authors
 
-- Yulai Zhang
-- Yinrong Zhang
+- Yulai Zhang (Shanghai University)
+- Yinrong Zhang (Shanghai University)
