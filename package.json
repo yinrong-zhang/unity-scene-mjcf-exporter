@@ -1,0 +1,13 @@
+{
+  "name": "com.zhang.mjcf-exporter",
+  "version": "1.0.0",
+  "displayName": "Unity Scene MJCF Exporter",
+  "description": "A Unity Editor tool for exporting Unity scenes and selected GameObjects to MuJoCo MJCF XML.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Yulai Zhang, Yinrong Zhang, Haoze Tang"
+  },
+  "dependencies": {
+    "com.unity.robotics.urdf-importer": "0.5.2"
+  }
+}
