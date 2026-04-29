@@ -12,3 +12,8 @@ After importing the package, use the Unity menu:
 ## Requirements
 
 This tool depends on Unity Robotics URDF Importer if your scene contains URDF robot components.
+
+## Authors
+
+- Yulai Zhang
+- Yinrong Zhang
